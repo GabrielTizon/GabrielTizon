@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 O que estou construindo
+## 🚀 Projetos em Destaque
 
 - **Grace** – sistema de microserviços com Auth API, Record API e Receive-Send API usando PHP, Python, Node.js, Redis e PostgreSQL.  
 - **LinkHub** – mini “árvore de links” em Django com temas, analytics simples e QR Code.  
